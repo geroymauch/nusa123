@@ -1,0 +1,9 @@
+{
+	"ip":"nusamyxc.aternos.me",
+	"port": "52500",
+	"name": "bot1237B",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register aternos011 ",
+	"login-cmd":"/login aternos011 "
+}
